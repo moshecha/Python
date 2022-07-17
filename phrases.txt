@@ -1,0 +1,5 @@
+hola / moshe
+h? d
+ . .
+/usr/local/bin/python3 /Users/familiachami/Desktop/python_Moshe/tpFinal/Ej2/palindromes.py
+hola
