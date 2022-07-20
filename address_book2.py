@@ -40,4 +40,4 @@ if imprimir == 'si':
                             quoting=csv.QUOTE_MINIMAL)
         for row in reader:
             print(row)
-        
+      
