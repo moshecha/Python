@@ -40,7 +40,7 @@ def imprimirFrases(a):
         
 
 frase = input('ingrese frase: ')
-archivo = 'archivo.txt'
+archivo = 'phrases.txt'
 guardafrase(archivo,frase)
 contarpalabras(frase)
 contarpalabrasArchivo(archivo)
