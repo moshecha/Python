@@ -9,8 +9,6 @@ while palabra != 'x':
         print('Es palindromo!')
         palindromos.append(palabra)
         palabra = input('Ingresa una palabra: ')
-        
-    
     elif palabra == 'x':
         print('Fin')
     else:
