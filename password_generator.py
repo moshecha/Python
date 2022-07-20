@@ -64,6 +64,5 @@ if var3 > 0:
 
 random.shuffle(clave) #los mezcla una vez mas!
 
-print('caracteres usados:', ",".join(caracteresAusar)) #opcional los 
+#print('caracteres usados:', ",".join(caracteresAusar)) #opcional imprime los caracteres de donde se eligieron
 print('Clave: ', "".join(clave), '    Cantidad de Caracteres:', len(clave)) #join los muestra seguidos, y len muestra la cantidad
-print('var1', var1, 'var2', var2, 'var3', var3)
