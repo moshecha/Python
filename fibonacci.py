@@ -19,4 +19,4 @@ while cant != -1:
     else:
         print('Ingrese un numero mayor a 0')
         cant = int(input('(Salir con -1) Ingrese la cantidad de fibonacci que queres ver: '))
-    
+   
